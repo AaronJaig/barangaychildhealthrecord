@@ -1,0 +1,30 @@
+.child-health-record-form {
+  display: center;
+    max-width: 400px;
+    padding: 20px;
+    border: 1px solid #380202;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(23, 4, 4, 0.1);
+    background-color: #747070;
+  }
+  
+  .form-group {
+    margin-bottom: 3px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 3px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    box-sizing: border-box;
+    border: 2px solid #040404;
+    border-radius: 4px;
+  }
+  
+  
+  
